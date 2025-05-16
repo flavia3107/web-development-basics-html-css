@@ -21,7 +21,6 @@ It is a simple static webpage built using **semantic HTML** and **basic CSS**, d
 - Understand how to use semantic tags (`<header>`, `<section>`, `<footer>`, etc.)
 - Apply CSS for layout, spacing, and visual hierarchy
 - Practice CSS rules and selectors
-- Create responsive design basics using media queries (if included)
 
 ## 📖 Credits
 This project is based on the [100 Days Of Code - 2024 Web Development Bootcamp)
