@@ -42,3 +42,7 @@ a:hover {
 .list-items p {
   color: #eee;
 }
+
+.main-content {
+  margin: auto;
+}
