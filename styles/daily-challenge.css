@@ -1,8 +1,10 @@
 body {
-  margin: 10px;
+  min-height: 95vh;
+  display: flex;
+  margin: 0;
 }
 
-img {
+.logo-img {
   width: 200px;
   height: 200px;
   border-radius: 100px;
